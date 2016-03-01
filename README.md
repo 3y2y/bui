@@ -1,5 +1,6 @@
 bui
 ===
+[github pages] http://dxq613.github.io/
 
 基于jQuery的富客户端控件库
 - [文档库地址](http://www.builive.com/)
